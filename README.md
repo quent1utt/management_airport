@@ -25,5 +25,5 @@ Two types of passengers are taken into account: passengers without privilege and
 
 - Check that the aircraft can take off by checking that all registered passengers have boarded and that all baggage is loaded.
 
-- Consult flight statistics (aircraft fill rate, passenger and VIP rate).
+- Consult flight statistics (current flights, aircraft fill rate, passenger and VIP rate).
 
