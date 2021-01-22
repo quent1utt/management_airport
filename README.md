@@ -1,4 +1,4 @@
-# management_airport
+# Airport Online
 
 # Introduction 
 The objective of the project is to develop software that allows to manage passengers in an airport.
